@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android Start Activity For Result'
